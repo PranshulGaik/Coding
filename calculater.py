@@ -6,7 +6,7 @@ print("-------------------------------------------------------------------------
 #------------------------
 t = turtle.Turtle()
 t.hideturtle()
-
+#ajfhao
 one = turtle.Turtle()
 one.hideturtle()
 
