@@ -1,0 +1,3 @@
+b4eac894-efcf-4b98-b884-82486dfb792f - Device ID
+
+544QGHHVLI8PHWHJYX1D - Secret Key

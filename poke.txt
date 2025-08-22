@@ -1,0 +1,67 @@
+Zapdos @ Aguav Berry  
+Ability: Pressure  
+Tera Type: Electric  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Roost  
+- Thunder  
+- Hurricane  
+- Discharge  
+
+Greninja @ Leftovers  
+Ability: Battle Bond  
+Tera Type: Water  
+EVs: 4 Atk / 252 SpA / 252 Spe  
+Hasty Nature  
+- Dark Pulse  
+- Night Slash  
+- Hydro Pump  
+- Water Shuriken  
+
+Charizard-Mega-X @ Charizardite X  
+Ability: Blaze  
+Shiny: Yes  
+Tera Type: Fire  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Dragon Pulse  
+- Fire Blast  
+- Focus Blast  
+- Seismic Toss  
+
+Garchomp @ Life Orb  
+Ability: Rough Skin  
+Tera Type: Dragon  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Draco Meteor  
+- Dragon Pulse  
+- Earth Power  
+- Flamethrower  
+
+Magnezone @ Electrium Z  
+Ability: Sturdy  
+Tera Type: Electric  
+EVs: 248 HP / 252 SpA / 8 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Discharge  
+- Flash Cannon  
+- Steel Beam  
+- Hidden Power [Ice]  
+
+Articuno @ Leftovers  
+Ability: Pressure  
+Shiny: Yes  
+Tera Type: Ice  
+EVs: 252 HP / 252 SpA / 4 SpD  
+Modest Nature  
+IVs: 0 Atk  
+- Ancient Power  
+- Blizzard  
+- Roost  
+- Freeze-Dry  
+

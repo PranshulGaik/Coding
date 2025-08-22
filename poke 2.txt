@@ -1,0 +1,63 @@
+Pelipper @ Damp Rock  
+Ability: Drizzle  
+Tera Type: Water  
+EVs: 248 HP / 252 Def / 8 SpD  
+Bold Nature  
+- Scald  
+- Roost  
+- Defog  
+- U-turn  
+
+Swampert-Mega @ Swampertite  
+Ability: Damp  
+Tera Type: Water  
+EVs: 252 Atk / 4 SpD / 252 Spe  
+Jolly Nature  
+- Waterfall  
+- Earthquake  
+- Ice Punch  
+- Flip Turn  
+
+Zapdos @ Heavy-Duty Boots  
+Ability: Static  
+Tera Type: Electric  
+EVs: 248 HP / 112 SpA / 148 Spe  
+Timid Nature  
+IVs: 0 Atk  
+- Thunder  
+- Hurricane  
+- Roost  
+- Weather Ball  
+
+Ferrothorn @ Chople Berry  
+Ability: Iron Barbs  
+Tera Type: Grass  
+EVs: 252 HP / 4 Def / 252 SpD  
+Careful Nature  
+- Body Press  
+- Toxic  
+- Stealth Rock  
+- Knock Off  
+
+Manaphy @ Waterium Z  
+Ability: Hydration  
+Tera Type: Water  
+EVs: 252 HP / 180 SpA / 76 Spe  
+Modest Nature  
+IVs: 0 Atk  
+- Surf  
+- Psychic  
+- Rest  
+- Tail Glow  
+
+Greninja-Ash @ Choice Specs  
+Ability: Battle Bond  
+Shiny: Yes  
+Tera Type: Water  
+EVs: 252 SpA / 4 SpD / 252 Spe  
+Timid Nature  
+- Surf  
+- Dark Pulse  
+- Water Shuriken  
+- Spikes  
+
